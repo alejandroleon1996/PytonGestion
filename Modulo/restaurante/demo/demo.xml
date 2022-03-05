@@ -12,7 +12,7 @@
         <field name="name">Plato 2</field>
         <field name="description">Descripción del plato 2</field>
       </record>
-      <record model="restaurante.plato" id="Ale">
+      <record model="restaurante.plato" id="Alex">
         <field name="name">PlatoAle</field>
         <!-- no description for this one -->
       </record>
